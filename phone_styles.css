@@ -1,0 +1,346 @@
+@charset "UTF-8";
+
+@media (max-width: 377px){
+    
+    
+      
+/*
+.body{
+    margin: -10px; 
+    padding: -10px;
+}
+    */
+    
+    */*
+    
+.main_container{
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: white;
+    float: left;
+    clear: both;
+}
+    */*
+
+.banner{
+	width: 100%;
+	height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    float: left;
+    clear: left;
+    width: 100%;
+    height: 3em;
+    background-color: black;
+    color: black;
+}
+
+.nav ul li{
+    list-style-type: none;
+    font-size: 8px;
+    float: right;
+    padding-left: 2px;
+    padding-top: .3em;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color: red;
+}
+p a{
+    text-decoration: none;
+}
+    
+p a:hover{
+    color:red;
+}
+    
+p a:active{
+    color: black;
+}
+
+h1{
+    width: 95%;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: .5em;
+    float: left;
+    clear: both;
+    color: skyblue
+}
+   
+h1 a{
+    text-decoration: none;
+    color: red;
+}
+
+h1 a:hover{
+    color: blue;
+}
+ 
+h2{
+    width: 95%;
+    text-align: center;
+    font-size: 1em;
+    margin-left: .8em;
+    margin-top: 1em;
+    float: left;
+    clear: both;
+}
+    
+h3{
+    width: 95%;
+    height: auto;
+    text-align: center;
+    float: left;
+    clear: both;
+    font-size: large;
+}
+    
+ h5{
+    width: 90%;
+    height: auto;
+    text-align: center;
+    float: left;
+    clear: both;
+    margin: 4px;
+    color: black;
+    font-family: monospace;
+    font-size: large;
+}
+    
+.h6{
+    width: 80%;
+    text-align: center;
+    font-size: 1em;
+    margin-left: 2em;
+    float: left;
+    clear: both;
+}
+    
+ .days{
+    width: 80%;
+    height: 30px;
+    float: left;
+    clear: none;
+    padding: 2px;
+    text-align: center;
+    color: white;
+    background-color: black; 
+    border: solid;
+    margin: .5em;
+    margin-left: 1.5em;
+    margin-top: .5em;
+    border-radius: 18px;
+    letter-spacing: 5px;
+}
+    
+.days a{
+    text-decoration: none;
+    color: white;
+}
+.days a:hover{
+    color: red;
+}
+    
+    
+    /*
+    
+.locations{
+    width: 90%;
+    height: auto;
+    float: left;
+    clear: both;
+    padding-top: 5em;
+    color: white;
+    background-color: white;
+    list-style-type: none;
+} */
+     
+.spots{
+    width: 98%;
+    height: auto;
+    float: left;
+    clear: both;
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: .5em;
+    margin: .3em;
+    margin-left: -1em; 
+}
+    /*
+    
+.locations{
+    width: 90%;
+    height: auto;
+    margin-left: 1em;
+    padding-left: 1em;
+    }
+    
+    */
+    
+.blank_margin{
+    width: 100%;
+    height: 50px;
+    float: left;
+    clear: both;
+    background-color: white;
+}
+
+       /*
+    
+.blank_space{
+    
+    width: 30%;
+    height: 150px;
+    background-color: white;
+    float: left;
+    clear: left;
+    text-align: center;
+    font-size: large;
+    word-spacing: 2em;
+}
+
+
+  */
+
+.times{
+    width: 16em;
+    height: 11em;
+    float: left;
+    clear: both;
+    text-align: center;
+    padding: .25em;
+    font-size: 1em;
+    background-color: black;
+    color: white;
+    margin-left: 1.8em;
+}
+
+ .times a{
+    text-decoration: none;
+}
+
+ .times a:hover{
+    color: red;
+}
+ .map{
+        width: auto;
+        height: auto;
+        float: left;
+     margin-left: .5em;
+    } 
+    
+.donations{
+    width: 90%; 
+    height: auto; 
+    margin-left: .5em; 
+    margin-right: .5em; 
+    padding-left: .5em; 
+    padding-right: .5em; 
+    padding-top: 1.5em; 
+    padding-bottom: 2em; 
+    float: left; 
+    clear: both; 
+    line-height: .4cm; 
+    box-shadow: -3px -4px 10px 3px #888888; 
+    font-size: 10pt; 
+    background-color: whitesmoke;
+}
+    
+.hot_meal_button{
+    width: 90%; 
+    height: 40px; 
+    margin-left:  1em; 
+    margin-right: 1em; 
+    margin-bottom: 1em; 
+    margin-top: 2em; 
+    border: .125em solid #3498db;
+    border-radius: 0.25em;
+    box-shadow: -1px -1px 3px 3px #888888;
+    background-color: floralwhite; 
+    font-family: "montserrat", sans-serif;
+    text-align: center; 
+    font-size: 1em;
+    padding-top: .8em;
+}
+    
+    .hot_meal_button a{
+        text-decoration: none;
+        color: black;
+}
+    
+    .hot_meal_button a:hover{
+        color: red;
+        width: 100%;
+        height: 80px;
+}
+    
+    .hot_meal_button a:active{
+        color: skyblue;
+        background-color: none;
+        width: 90%;
+        height: 40px;padding-top: .8em;
+}
+    
+    .hot_meal_button a:focus{
+        color: skyblue;
+}
+    
+    
+icons{
+    width: auto;
+    height: auto;
+}    
+    
+banner{
+    width: auto;
+    height: auto;
+}
+    
+.citys{
+    width: 7em;
+    height: 3em;
+    float: left;
+    text-align: center;
+    line-height: 1.3cm;
+    letter-spacing: 1px;
+    margin: 9px;
+    margin-left: 1em;
+    padding: 7px;
+    border: solid;
+    background-color: crimson;
+    color: white;
+    border-color: black;
+}
+    
+    */*
+    
+.iframe{
+    width: auto;
+    height: auto;
+    margin: 0;
+    float: left;
+    clear: both;
+}
+    
+    */*
+    
+    phone_map{
+        width: auto;
+        height: auto;
+        margin: 5px;
+        padding: 5px;
+    } 
+    
+
+
+
+

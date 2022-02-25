@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+
+
+/*THESE ARE THE STYLES THAT ARE USED IN THE BODY OF THE DOCUMENT*/
+
+
+.header{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: left;
+    color: yellow;
+    background-color: hotpink;
+}
+.h1{
+    width: 100%;
+    height: auto;
+}
+.nav{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+}
+#myTopnav{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+}
+.main{
+    width: 100%;
+    height: auto;
+    background-color: aqua
+}
+.thank_you{
+    width: 100%;
+    height: auto;
+}
+.contact-feedback{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+    background-color: lawngreen;
+    color: yellow;
+}
+.p{
+    width: 50%;
+    height: auto;
+    color: red;
+}
+.footer_pac{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+    background-color: aqua;
+    color: beige;
+}
+.shadow{
+    width: 100%;
+    height: auto;
+}
+.yellow{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
